@@ -1,0 +1,227 @@
+ *{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+} 
+
+
+li a {
+    position: relative;
+    margin:0px 20px 0px 0px;
+    font-family: 'Langar', cursive;
+   
+}
+
+li a:hover{
+    color: aqua;
+}
+
+
+.img1{
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    height: 60px;
+    align-content: center;
+    position: relative;
+    bottom:5px;
+    
+}
+
+.right_nav {
+    margin: 0px 0px 0px 390px ;
+    
+}
+
+#signup_icon{
+    margin: 10px 0px 0px 0px ;
+    color: red;
+}
+
+#portal_signup_icon {
+    color: red;
+    margin-top:10px;
+}
+.dropdown-menu{
+    background-color:#292b2c;
+}
+
+
+
+.dropdown-item{
+    color: aliceblue;
+}
+
+.dropdown-item:hover{
+    background-color:#070524;
+    color: aqua;
+}
+
+.body_div{
+    height: 1350px;
+    border-top: solid midnightblue;
+    background-size: cover;
+    padding: 0px !important;
+    background-image:url(tec_bg.jpg);
+}
+
+
+.NOI_img{
+    position: relative;
+    left:20px ;
+    top: 50px;
+    height:65%;
+    width: 65%;
+    margin: auto;
+    display: block;
+    
+}
+.navbar-toggler-icon{
+    height: auto;
+    width: auto;
+    border: transparent;
+    padding-top: 0 0 0 0px;
+    margin: 0 0 0 0px;
+    color:white;
+    position: relative;
+    bottom: 3px;
+    border: none;
+}
+
+.navbar-toggler-icon:hover{
+    color: aqua;
+}
+
+.container-fluid button{
+    background-color: transparent;
+    border: none;
+    color:transparent;
+} 
+
+.navbar-expand-lg{
+    position:relative;
+    background-color: #070524;
+}
+.nav-item{
+    color: aliceblue;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: aliceblue;
+}
+
+
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(228 222 219);
+}
+.navbar-light .navbar-nav .nav-link:hover{
+    color: mediumturquoise;
+    border-bottom: solid 2px springgreen;
+}
+
+#navbarDropdown{
+    margin-right: 300px;
+    color: rgb(228 222 219);
+}
+
+#title{
+    color:black;
+    font-family: 'Bree Serif', serif;
+    font-weight: 600;
+   
+    position: relative;
+    top: 20px;
+    text-align: center;
+}
+#title_register{
+    
+    position: relative;
+    top: 23px;
+    text-align: center;
+}
+#title_register .title_reg{
+    font-family: 'Bree Serif', serif;
+    color: black;
+}
+#title_register p{
+    margin: 20px;
+    font-family: 'Bree Serif', serif;
+    font-size:20px;
+}
+
+ .btn{
+    font-family: 'Bree Serif', serif;
+    position: relative;
+    animation:bouncy 5s infinite linear;
+    top: 40px;
+    left:45%; 
+} 
+
+.btn:hover{
+    color: black;
+    border: solid 2px rgb(14, 13, 13);
+    background-color:dodgerblue;
+}
+
+
+.firstdrow{
+
+    background-color: black;
+
+}
+
+.content2row{
+    position: relative;
+    left: 150px;
+}
+
+.content2row img{
+    margin: 30px;
+}
+
+.aboutpara{
+    margin: 10px;
+    padding:0 25px 0 25px;
+}
+
+.lastimgcaption{
+    width:204px;
+    text-align: center;
+}
+
+.lastimg1{
+    position: relative;
+    right: 20px;
+    
+    width: 500px;
+    height: auto;
+}
+.lastimg2{
+    
+    position:relative;
+    left: 36px;
+    top: 25px;
+    width: 400px;
+    height: auto;
+}
+
+p{
+    font-size: 15px;
+    font-family: 'Quando', serif;
+}
+
+.lastpara{
+    margin: 30px;
+
+}
+
+
+
+footer div i{
+    color:cornflowerblue;
+    font-size:50px;
+}
+.socialmedia{
+    margin: 20px;
+    position: relative;
+    bottom: 50px;
+}
